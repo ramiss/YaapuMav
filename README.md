@@ -5,7 +5,7 @@
 
 ### please read the [wiki](https://github.com/yaapu/FrskyTelemetryScript/wiki) for more info
 
-This is the home of the Yaapu Telemetry project, an [ArduPilot](http://ardupilot.org/ardupilot/index.html) [LUA](https://www.lua.org/about.html) telemetry script and widget for radios running [OpenTX](https://www.open-tx.org/), [EdgeTX](http://www.edgetx.org) and [Ethos](https://ethos.frsky-rc.com/)
+This is a custom fork of the Yaapu Telemetry project, an [ArduPilot](http://ardupilot.org/ardupilot/index.html) [LUA](https://www.lua.org/about.html) telemetry script and widget for radios running [OpenTX](https://www.open-tx.org/), [EdgeTX](http://www.edgetx.org) and [Ethos](https://ethos.frsky-rc.com/)
 
 Supports:
  - [OpenTX](https://www.open-tx.org) 2.3.8 or later with Widget [version 2.0.0 or later](https://github.com/yaapu/FrskyTelemetryScript/archive/master.zip)
@@ -16,15 +16,15 @@ Supports:
  - [ExpressLRS](https://www.expresslrs.org/) (setup info [here](https://github.com/yaapu/FrskyTelemetryScript/wiki/Passthrough-over-CRSF-and-ExpressLRS))
  - [MavToPT](https://github.com/zs6buj/MavlinkToPassthru) project
 
-**Downloading**
-- **the latest release versions are downloadable from the [releases](https://github.com/yaapu/FrskyTelemetryScript/releases) section** 
-- **the latest versions are downloadable from the [clone/download](https://github.com/yaapu/FrskyTelemetryScript/archive/master.zip) button of the [master branch](https://github.com/yaapu/FrskyTelemetryScript/tree/master)** 
+//**Downloading**
+//- **the latest release versions are downloadable from the [releases](https://github.com/yaapu/FrskyTelemetryScript/releases) section** 
+//- **the latest versions are downloadable from the [clone/download](https://github.com/yaapu/FrskyTelemetryScript/archive/master.zip) button of the [master branch](https://github.com/yaapu/FrskyTelemetryScript/tree/master)** 
 
 ## Support this project!
 
 This project is free and will always be.
 
-If you like it you can support it by making a donation!
+If you like it you can support it by making a donation to the original developer:
 
 [![donate](https://user-images.githubusercontent.com/30294218/61724877-16fa7a80-ad6f-11e9-80de-9771e0b820ae.png)](https://paypal.me/yaapu)
 
