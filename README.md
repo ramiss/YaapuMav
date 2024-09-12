@@ -16,9 +16,9 @@ Supports:
  - [ExpressLRS](https://www.expresslrs.org/) (setup info [here](https://github.com/yaapu/FrskyTelemetryScript/wiki/Passthrough-over-CRSF-and-ExpressLRS))
  - [MavToPT](https://github.com/zs6buj/MavlinkToPassthru) project
 
-[//]: # (**Downloading**)
-[//]: # (- **the latest release versions are downloadable from the [releases](https://github.com/yaapu/FrskyTelemetryScript/releases) section** )
-[//]: # (- **the latest versions are downloadable from the [clone/download](https://github.com/yaapu/FrskyTelemetryScript/archive/master.zip) button of the [master branch](https://github.com/yaapu/FrskyTelemetryScript/tree/master)**)
+**Downloading - Currently from the original repository:**
+- **the latest release versions are downloadable from the [releases](https://github.com/yaapu/FrskyTelemetryScript/releases) section** 
+- **the latest versions are downloadable from the [clone/download](https://github.com/yaapu/FrskyTelemetryScript/archive/master.zip) button of the [master branch](https://github.com/yaapu/FrskyTelemetryScript/tree/master)**
 
 
  
